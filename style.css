@@ -1,0 +1,106 @@
+.france {
+    position: absolute;
+    display: inline-block;
+}
+.blue {
+    display: inline-block;
+    background-color: blue;
+    height: 300px;
+    width:  150px;
+
+}
+.white {
+    display: inline-block;
+    background-color: white;
+    height: 300px;
+    width:  150px;
+
+}
+.france-red {
+    display: inline-block;
+    background-color:red;
+    height: 300px;
+    width:  150px;
+
+}
+.germany {
+    position: relative;
+    display: inline-block;
+    left: 600px;
+}
+.black {
+    display: block;
+    background-color:black;
+    height: 100px;
+    width:  400px;
+
+}
+.germany-red {
+    display: block;
+    background-color: red;
+    height: 100px;
+    width:  400px;
+
+}
+.yellow {
+    display: block;
+    background-color:yellow;
+    height: 100px;
+    width:  400px;
+
+}
+.madagascar {
+    display: block;
+}
+
+.mad-white {
+    display: inline-block;
+    background-color:white;
+    position: absolute;
+    height: 50px;
+    width:  100px;
+
+}
+.mad-green {
+    display: block;
+    position: relative;
+    left: 10%;
+    background-color: green;
+    height: 100px;
+    width:  400px;
+
+}
+.mad-red {
+    display: block;
+    position: relative;
+    left: 10%;
+    background-color:red;
+    height: 100px;
+    width:  400px;
+
+}
+.swiz-red {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    background-color: red;
+}
+.swiz-white-vertical {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    width: 200px;
+    height: 100px; 
+    background-color: white;
+}
+
+
+.swiz-white-horizontal {
+    position: relative;
+    left: 130px;
+    top: 100px;
+    width: 100px;
+    height: 200px; 
+    background-color: blue;
+}
